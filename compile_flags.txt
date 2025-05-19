@@ -1,0 +1,9 @@
+-xc++
+-std=c++23
+-Wall
+-Wextra
+-Werror
+-Iengine
+-Iengine/vendor/SDL/include
+-Iengine/vendor/Vulkan-Headers/include
+-Iengine/vendor/magic_enum/include

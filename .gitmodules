@@ -1,0 +1,12 @@
+[submodule "engine/vendor/SDL"]
+	path = engine/vendor/SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "engine/vendor/Vulkan-Loader"]
+	path = engine/vendor/Vulkan-Loader
+	url = https://github.com/KhronosGroup/Vulkan-Loader.git
+[submodule "engine/vendor/Vulkan-Headers"]
+	path = engine/vendor/Vulkan-Headers
+	url = https://github.com/KhronosGroup/Vulkan-Headers.git
+[submodule "engine/vendor/magic_enum"]
+	path = engine/vendor/magic_enum
+	url = https://github.com/Neargye/magic_enum.git
